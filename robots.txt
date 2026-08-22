@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarniaductcleaning.ca/sitemap-index.xml
