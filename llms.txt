@@ -1,2 +1,27 @@
 # Sarnia Duct Cleaning
-HVAC services in Ontario.
+
+> Sarnia Duct Cleaning is a local HVAC company serving Sarnia, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (226) 778-1469  |  Email: contact@sarniaductcleaning.ca  |  Website: https://sarniaductcleaning.ca
+
+Service areas: Bright's Grove
+
+## Key pages
+
+- [Home](https://sarniaductcleaning.ca/): Sarnia Duct Cleaning homepage with service overview and FAQ
+- [About](https://sarniaductcleaning.ca/about/): About the company and service area
+- [Contact](https://sarniaductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://sarniaductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Sarnia, Ontario
+- [Dryer Vent Cleaning](https://sarniaductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Sarnia, Ontario
+- [Furnace & AC Cleaning](https://sarniaductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Sarnia, Ontario
+- [HRV & Ventilation Cleaning](https://sarniaductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Sarnia, Ontario
+- [Duct Sanitizing & Deodorizing](https://sarniaductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Sarnia, Ontario
+- [Duct Sealing & Repair](https://sarniaductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Sarnia, Ontario
+- [Commercial Duct Cleaning](https://sarniaductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Sarnia, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Sarnia are answered on the homepage.
